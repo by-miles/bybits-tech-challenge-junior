@@ -1,25 +1,3 @@
-## Template letter
-
-Hi,
-
-Thank you for your application and having reviewed your CV and profile, and congratulations, we would like to invite you to the next round. This round is a technical challenge.
-
-Next steps:
-
-All the details of the technical challenge and how to submit your work can be found here:
-
-[URL]
-
-You are free to complete this in your own time, but we do expect candidates to submit their work by the 22nd Jan.
-
-Once we have received your work, we will review your code, provide feedback and if it meets our criteria, we will invite you to a face to face video call to discuss further your technical experiences and what you are looking for in your role.
-
-Look forward to see what you make.
-
-Thanks
-Regards
-
-
 ## By Bits Code Challenge
 By Bits have a Policy API which handles car insurance policies for customers. Don't worry, we don't expect you to know the in's and out's of car insurance. But here are some useful definitions which may be of some help.
 
