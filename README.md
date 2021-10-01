@@ -26,22 +26,32 @@ So that I can view my policy details
 
 ### Notes
 
-* We use React, however, chose the technical stack that you are most comfortable with.
+* We use React, however, choose the technical stack that you are most comfortable with.
 * You are free to use any 3rd party libraries to assist you in this task.
 * You are not expected to develop anything outside of the wireframe and user story described above.
-* Add any tests where appropriate
+* You are free to design the user interface to your liking or what you think is best.
+* If you have experience in testing, please do add any tests where you think are appropriate.
+
 
 ### Time
 
-You can spend as little or as much time as you wish to complete this challenge to your satisfaction.
+You are free to spend as little or as much time as you wish to complete this challenge to a level of your satisfaction. At the same time, we do not expect candidates to spend days and weeks on this task.
+
+As a guide, this task can typically take anywhere from 2 to 6 hours, based on skill level.
+
+If you go over that time, it does not mean you will be penalised. 
+We appreciate that your time is valuable and therefore, to help us assess your code submission accordingly, it's important to include how long you spend as described in the [How to submit your application](#how-to-submit-your-application) section.
+
 
 ## How to submit your application
 
-* Create a GitHub repository and upload your code.
-* Provide a README.md in your repository which includes:
-  * Any notes, assumptions and decisions you have made.
-  * An estimate of how long you spent on this task.
-* Provide us a link to this repository.
+1. Create a GitHub repository and upload your code.
+2. Provide a README.md in your repository which includes:
+    * Any notes, assumptions and decisions you have made.
+    * An estimate of how long you spent on this task.
+    * If you ran out of time or wanted to spend more time, what would you have liked to have done?
+3. Email us a link to this repository.
+
   
 
 ## Policy API 
